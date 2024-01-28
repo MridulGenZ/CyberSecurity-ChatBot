@@ -1,0 +1,33 @@
+{
+  "name": "cybersec-chat-bot",
+  "version": "1.0.0",
+  "description": "A chat bot possessing a vast knowledge of cyber security",
+  "main": "src/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MridulGenZ/CyberSecurity-ChatBot.git"
+  },
+  "keywords": [
+    "bot",
+    "conversation",
+    "javascript",
+    "chatgpt",
+    "openai",
+    "cybersec"
+  ],
+  "author": "Mridul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MridulGenZ/CyberSecurity-ChatBot/issues"
+  },
+  "homepage": "https://github.com/MridulGenZ/CyberSecurity-ChatBot#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1",
+    "openai": "^4.26.0"
+  }
+}
