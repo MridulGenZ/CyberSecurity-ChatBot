@@ -9,6 +9,10 @@ dotenv.config();
 const config = require("./vars.json");
 const images = require("./data/image/object");
 
+sk-WJLApx14T
+
+kp5rIuGt2RLT3BlbkFJcvkxGAgNKNT1pKH0w56A
+
 const client = new Client({
   intents: 33347,
   allowedMentions: { repliedUser: true }
